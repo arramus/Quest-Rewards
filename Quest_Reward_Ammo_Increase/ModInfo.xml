@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Quest Reward Ammo Increase" />
+		<Description value="200% ammo rewarded for Tier 1 - 3 quests. High explosives are replaced with more ammo at 50% above previous modded values." />
+		<Author value="arramus" />
+		<Version value="1.0.0" />
+		<Website value="https://community.7daystodie.com/" />
+	</ModInfo>
+</xml>
