@@ -9,8 +9,7 @@
 	<item name="ammo44MagnumBulletBall" count="300" loot_prob_template="QuestT1Prob"/>
 	<item name="ammo44MagnumBulletHP" count="200" loot_prob_template="QuestT2Prob"/>
 	<item name="ammo44MagnumBulletAP" count="200" loot_prob_template="QuestT2Prob"/>
-	<item name="ammo44MagnumBulletBall" count="450" loot_prob_template="QuestT3Prob"/>
-	
+	<item name="ammo44MagnumBulletBall" count="450" loot_prob_template="QuestT3Prob"/>	
 
 	<item name="ammoShotgunShell" count="240" loot_prob_template="QuestT1Prob"/>
 	<item name="ammoShotgunSlug" count="150" loot_prob_template="QuestT2Prob"/>
